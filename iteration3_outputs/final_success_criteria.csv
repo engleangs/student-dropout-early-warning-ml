@@ -1,0 +1,5 @@
+criterion,target,actual,passed
+Lift @ top 20%,> 2.5,3.0105633802816905,True
+Dropout recall,>= 0.85,0.8838028169014085,True
+Dropout precision,>= 0.70,0.6435897435897436,False
+Train-test accuracy gap,< 0.10,0.02565856166078384,True

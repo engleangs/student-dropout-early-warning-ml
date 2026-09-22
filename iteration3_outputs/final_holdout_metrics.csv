@@ -1,0 +1,2 @@
+chosen_threshold,threshold_reason,accuracy,precision,recall,f1,f2,average_precision,roc_auc,lift_at_20pct,train_accuracy,stability_gap
+0.27,No threshold met both criteria; maximize precision while preserving recall >= 0.85,0.8056497175141243,0.6435897435897436,0.8838028169014085,0.744807121661721,0.8224115334207077,0.8849290440055929,0.9141630146938201,3.0105633802816905,0.8313082791749081,0.02565856166078384
